@@ -1,1 +1,3 @@
 List of attack vectors used:
+
+Currently port scans using nmap were the only tool in use as more sophisticated event log veiwer was required to get full break down. 
