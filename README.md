@@ -1,6 +1,24 @@
 # Home-Soc-Lab
-Creating a home lab to simulate enterprise structure and attack points
 
-Using a simple vm exserise with 2 machines to simulate a domian controller + a few user machines and a linux machine to simulate attacks
+Overview: 
+Buliding a virtulised actvity directroy enviroment similar to an SME and creating attack simulation to generate a various of security logs to gain furthur understanding from a SOC perpestive.
 
-All documenation and reporting will be uploaded to this repo as a record of the learning process 
+
+Lab Architecture:
+Windows Server (Domain Controller)
+Windows 10/11 Client Machine
+Linux attacker machine 
+
+
+Tasks:
+Understand windows event logs 
+Identify intersting traffic
+Practice insident investigation 
+
+
+Attack vectors:
+Brute force 
+Privilege escalation/ laterlal movement
+Account lockouts 
+
+
