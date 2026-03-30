@@ -1,1 +1,5 @@
+Reporting conclusion:
 
+Network setup proved to be troublesom intially as connectivity to domain controller reuiqred troubleshooting.
+
+Event log veiwer that comes with windows server is unoptimized for the full extent of the project so a more verbouse software is required.
